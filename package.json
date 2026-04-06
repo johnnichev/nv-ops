@@ -1,0 +1,11 @@
+{
+  "name": "nv-ops",
+  "version": "1.0.0",
+  "description": "nv:ops — Agent infrastructure skills: guard, eval, team. Safety guardrails, performance evaluation, multi-agent orchestration.",
+  "type": "module",
+  "keywords": ["ai-agents", "guardrails", "safety", "evaluation", "multi-agent", "orchestration", "claude-code", "cursor", "copilot"],
+  "author": "johnnichev",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/johnnichev/nv-ops" },
+  "homepage": "https://github.com/johnnichev/nv-ops"
+}
